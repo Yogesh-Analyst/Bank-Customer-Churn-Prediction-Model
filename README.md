@@ -1,1 +1,1 @@
-# Telecom-Customer-Churn-Prediction-Model
+# Bank-Customer-Churn-Prediction-Model
